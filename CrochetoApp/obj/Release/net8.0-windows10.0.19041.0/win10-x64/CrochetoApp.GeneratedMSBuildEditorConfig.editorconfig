@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CrochetoApp
+build_property.ProjectDir = S:\nn\Crocheto\Crocheto\CrochetoApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/AdminAppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.AdminAppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AdminAppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AdminAppShell.xaml
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/Pages/Access/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.Pages.Access.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Access\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Access\Login.xaml
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/Pages/Access/SignUp.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.Pages.Access.SignUp.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Access\SignUp.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Access\SignUp.xaml
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/Pages/Home/Crocheto.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.Pages.Home.Crocheto.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Home\Crocheto.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Home\Crocheto.xaml
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/Pages/Home/EditUser.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.Pages.Home.EditUser.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Home\EditUser.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Home\EditUser.xaml
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/Pages/Home/EditUserT.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.Pages.Home.EditUserT.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Home\EditUserT.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Home\EditUserT.xaml
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/Pages/Home/HomeAdmin.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.Pages.Home.HomeAdmin.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Home\HomeAdmin.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Home\HomeAdmin.xaml
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/Pages/Home/HomeClient.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.Pages.Home.HomeClient.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Home\HomeClient.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Home\HomeClient.xaml
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/UserAppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.UserAppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = UserAppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = UserAppShell.xaml
+
+[S:/nn/Crocheto/Crocheto/CrochetoApp/Pages/Access/styles.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.Pages.Access.styles.css
+build_metadata.AdditionalFiles.TargetPath = Pages\Access\styles.css
+build_metadata.AdditionalFiles.RelativePath = Pages\Access\styles.css

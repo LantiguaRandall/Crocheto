@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrochetoApp.Pages.Home.HomeClient" 
+             xmlns:local="clr-namespace:CrochetoApp" 
+             BackgroundColor="#f7f8f7" 
+             Shell.NavBarIsVisible="False">
+
+    <!-- Contenedor Principal -->
+    <ScrollView>
+        <VerticalStackLayout Spacing="10" Padding="20">
+
+            <!-- Botón estilizado para subir PDFs -->
+            <Button Text="Subir PDF"
+                    Command="{Binding UploadPdfCommand}"
+                    BackgroundColor="#6200EE"
+                    TextColor="White"
+                    CornerRadius="30"
+                    HeightRequest="50"
+                    HorizontalOptions="Fill"
+                    Margin="0,0,0,20" />
+
+            <!-- Lista de PDFs con un estilo de tarjeta -->
+            <CollectionView ItemsSource="{Binding ListaPdf}" 
+                            VerticalOptions="FillAndExpand" 
+                            HorizontalOptions="Fill"
+                            x:Name="CollectionView">
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Orientation="Vertical" 
+                                     Span="2"/>
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <ContentView
+                            Margin="10">
+                            <Frame CornerRadius="15" 
+                                   Padding="10" 
+                                   Margin="10" 
+                                   BorderColor="#E0E0E0" 
+                                   BackgroundColor="White">
+                                <StackLayout>
+                                    <!--<Image Source="{Binding PdfThumbnail}" 
+                                           Aspect="AspectFill" 
+                                           HeightRequest="150"/>-->
+                                    <Label Text="{Binding Titulo}"
+                                           LineBreakMode="NoWrap" 
+                                           TextColor="#6200EE"
+                                           FontAttributes="Bold"/>
+                                    <Label Text="{Binding Autor}" 
+                                           FontAttributes="Italic" 
+                                           TextColor="#6200EE"
+                                           FontSize="Small"/>
+                                    <StackLayout.GestureRecognizers>
+                                        <TapGestureRecognizer Command="{Binding Path=BindingContext.ItemTappedCommand, Source={x:Reference CollectionView}}" CommandParameter="{Binding .}" />
+                                    </StackLayout.GestureRecognizers>
+                                </StackLayout>
+                            </Frame>
+                        </ContentView>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
+
+
+
+
+

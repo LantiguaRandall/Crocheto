@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\nn\\Crocheto\\Crocheto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|s:\\nn\\crocheto\\crocheto\\crochetoapp\\pages\\access\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|solutionrelative:crochetoapp\\pages\\access\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|s:\\nn\\crocheto\\crocheto\\crochetoapp\\pages\\access\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|solutionrelative:crochetoapp\\pages\\access\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|s:\\nn\\crocheto\\crocheto\\crochetoapp\\pages\\access\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|solutionrelative:crochetoapp\\pages\\access\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|s:\\nn\\crocheto\\crocheto\\crochetoapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|solutionrelative:crochetoapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|s:\\nn\\crocheto\\crocheto\\crochetoapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|solutionrelative:crochetoapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|s:\\nn\\crocheto\\crocheto\\crochetoapp\\viewmodels\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|solutionrelative:crochetoapp\\viewmodels\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|s:\\nn\\crocheto\\crocheto\\crochetoapp\\models\\pdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D1EED2-E9C9-4C7C-BC75-6478929B2490}|CrochetoApp\\CrochetoApp.csproj|solutionrelative:crochetoapp\\models\\pdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\Pages\\Access\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "CrochetoApp\\Pages\\Access\\SignUp.xaml.cs",
+              "ToolTip": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\Pages\\Access\\SignUp.xaml.cs",
+              "RelativeToolTip": "CrochetoApp\\Pages\\Access\\SignUp.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:14:34.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\Pages\\Access\\Login.xaml",
+              "RelativeDocumentMoniker": "CrochetoApp\\Pages\\Access\\Login.xaml",
+              "ToolTip": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\Pages\\Access\\Login.xaml",
+              "RelativeToolTip": "CrochetoApp\\Pages\\Access\\Login.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAWwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T17:15:05.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pdf.cs",
+              "DocumentMoniker": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\Models\\Pdf.cs",
+              "RelativeDocumentMoniker": "CrochetoApp\\Models\\Pdf.cs",
+              "ToolTip": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\Models\\Pdf.cs",
+              "RelativeToolTip": "CrochetoApp\\Models\\Pdf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:39:34.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CrochetoApp\\Models\\User.cs",
+              "ToolTip": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\Models\\User.cs",
+              "RelativeToolTip": "CrochetoApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:36:50.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CrochetoApp\\Data\\AppDbContext.cs",
+              "ToolTip": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CrochetoApp\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:38:32.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditUserViewModel.cs",
+              "DocumentMoniker": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\ViewModels\\EditUserViewModel.cs",
+              "RelativeDocumentMoniker": "CrochetoApp\\ViewModels\\EditUserViewModel.cs",
+              "ToolTip": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\ViewModels\\EditUserViewModel.cs",
+              "RelativeToolTip": "CrochetoApp\\ViewModels\\EditUserViewModel.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAC0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:32:25.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\Pages\\Access\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "CrochetoApp\\Pages\\Access\\Login.xaml.cs",
+              "ToolTip": "S:\\nn\\Crocheto\\Crocheto\\CrochetoApp\\Pages\\Access\\Login.xaml.cs",
+              "RelativeToolTip": "CrochetoApp\\Pages\\Access\\Login.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:31:06.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
